@@ -1,3 +1,7 @@
+Este é um fork de um projeto  em grupo que realizamos para a faculdade.
+
+O trabalho completo se encontra na branch android onde fiz o front-end, adaptações no back-end e consultas e salvamentos no banco de dados
+
 # Best-Hotel-Finder
 
 Reserva de hotéis - melhor hotel para o período - Rodrigo e colegas
